@@ -1,0 +1,21 @@
+http://localhost:4004/book-group/Books?$filter=Assignments/any(d:d/Group_ID eq 'Art')
+
+###
+http://localhost:4004/book-group/Books?$filter=Assignments/any()
+
+###
+http://localhost:4004/book-group/Books
+
+###
+http://localhost:4004/book-group/Books?$expand=Assignments
+
+###
+http://localhost:4004/book-group/Groups
+
+###
+http://localhost:4004/book-group/Assignments
+
+###
+http://localhost:4004/book-group/$metadata
+
+###

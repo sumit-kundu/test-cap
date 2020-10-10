@@ -1,0 +1,7 @@
+createdBy,createdAt,modifiedBy,modifiedAt,ID,descr
+james.smith@tcs.com,2020-01-01,rudolf.platte@tcs.com,2020-01-01,Fict,Fictional
+al.wallace@tcs.com,2020-01-02,sally.spring@tcs.com,2020-01-02,NonF,Non-fictional
+frank.brown@tcs.com,2020-01-03,james.smith@tcs.com,2020-01-03,Hist,History
+james.field@tcs.com,2020-01-04,sue.bay@tcs.com,2020-01-04,Rel,Religion
+john.nicols@tcs.com,2020-01-05,peter.douglas@tcs.com,2020-01-05,Sc,Science
+james.field@tcs.com,2020-01-06,anna.lerch@tcs.com,2020-01-06,Art,Arts
